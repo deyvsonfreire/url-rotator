@@ -104,7 +104,7 @@
 </tbody>
 </table>
     
-    <a href="http://www.ninjapress.net/suite/" target="_blank">
-      <img style="float:right;margin-top: 2em;" src="<?= plugins_url('images/ninjapress-logo.png', dirname(__FILE__)); ?>" />
+    <a href="http://www.ticketz.app" target="_blank">
+      <img style="float:right;margin-top: 2em;" src="<?= plugins_url('images/ticketz-logo.png', dirname(__FILE__)); ?>" />
    </a>
 </div>
